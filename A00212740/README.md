@@ -16,9 +16,11 @@ Para instalar un servidor web se deben seguir los siguientes comandos desde usua
 
 
 1. listamos las interfaces con el comando
+```
 	ip a
+```	
 2. configuramos la interfaz tipo Bridge modificando el archivo ifcfg-ens37 ubicado en
-/etc/sysconfig/network-scripts/ifcfg-ens34
+/etc/sysconfig/network-scripts/ifcfg-ens37
 
 ```	
 	TYPE=Ethernet
