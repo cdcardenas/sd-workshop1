@@ -1,8 +1,10 @@
 **Actividad 1**
+
 **Sistemas Distribuidos**
 
-**Christian Cárdenas A00212740
-**Luis F. Rosales A00315320
+**Christian Cárdenas A00212740**
+
+**Luis F. Rosales A00315320**
 
 Se instalo CentOS 7 15.11 x64 bits con las siguientes caracteristicas:
 
